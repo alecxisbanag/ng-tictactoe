@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1601639625598,
+  "timestamp": 1601639915135,
   "index": "https://alecxisbanag.github.io/ng-tictactoe/index.html",
   "assetGroups": [
     {
@@ -52,7 +52,7 @@
     "https://alecxisbanag.github.io/ng-tictactoe/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://alecxisbanag.github.io/ng-tictactoe/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://alecxisbanag.github.io/ng-tictactoe/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://alecxisbanag.github.io/ng-tictactoe/index.html": "b1411d5498234b8d58dc7e822579f124e60b4174",
+    "https://alecxisbanag.github.io/ng-tictactoe/index.html": "aa889bd35f057eea57ae6a0e92634bb19b49f5ae",
     "https://alecxisbanag.github.io/ng-tictactoe/main.b3b248e686936eb53914.js": "d08920c485277f5276371aadb0d49b1336cffeff",
     "https://alecxisbanag.github.io/ng-tictactoe/manifest.webmanifest": "645d18e4ada4e3460f0982673e52d0e339bada21",
     "https://alecxisbanag.github.io/ng-tictactoe/polyfills.35a5ca1855eb057f016a.js": "578360d24ce37383f261c7ef63b1f822d28e8dde",
