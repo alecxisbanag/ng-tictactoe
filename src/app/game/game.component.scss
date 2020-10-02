@@ -1,0 +1,27 @@
+.board-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  nb-card {
+    min-width: 400px;
+    width: 60vw;
+    text-align: center;
+  }
+
+  .board {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    width: 400px;
+    height: 400px;
+  }
+
+  .button-container {
+    margin-top: 50px;
+    button {
+      margin: 0 20px 0 20px;
+    }
+  }
+}
+
